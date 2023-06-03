@@ -7,9 +7,13 @@ vue3 验证码输入框
 ```vue
 <script setup>
 import { VerificationInput } from 'vue3-code-input';
+
+function handleChange(code: string) {
+  console.log(code);
+}
 </script>
 <template>
-  <VerificationInput></VerificationInput>
+  <VerificationInput @change="handleChange"></VerificationInput>
 </template>
 ```
 样式可以自由覆盖。
