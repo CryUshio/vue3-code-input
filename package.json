@@ -1,6 +1,6 @@
 {
   "name": "vue3-code-input",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "type": "module",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
@@ -9,6 +9,17 @@
     "dist",
     "package.json",
     "README.md"
+  ],
+  "keywords": [
+    "vue",
+    "vite",
+    "vue3",
+    "code",
+    "input",
+    "sms",
+    "verify",
+    "verification",
+    "mail"
   ],
   "scripts": {
     "dev": "vite",
