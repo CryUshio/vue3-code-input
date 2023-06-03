@@ -1,6 +1,8 @@
 # vue3-code-input
 vue3 验证码输入框
 
+![image](https://github.com/CryUshio/vue3-code-input/assets/30655354/6439caae-a5e8-4c0a-a0ea-ecc66544c874)
+
 ## 参数
 props|desc|type|default|required
 --|--|--|--|--|
